@@ -1,0 +1,10 @@
+Shopping Center,4,0,2,4,2
+Hospital,2,0,4,1,2
+Neighborhood,4,1,1,3,2
+General Store,3,1,1,3,1
+Gas Station,1,1,0,2,1
+Car,1,1,1,0,0
+Homestead,3,2,2,3,2
+Gun Store,1,4,1,0,2
+Open Field,2,0,1,0,1
+Army Camp,3,3,3,2,3
